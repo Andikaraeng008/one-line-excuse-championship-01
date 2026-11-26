@@ -9,8 +9,8 @@ so the entry must never be written inside the repo itself.
 import os
 
 LINE = (
-    "I didn't lose the password \u2014 I encrypted it with itself, "
-    "so now only the password knows the password."
+    "I hid the password somewhere even I can't find it — "
+    "that's not a bug, that's the security working as designed."
 )
 
 
