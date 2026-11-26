@@ -8,10 +8,10 @@ so the entry must never be written inside the repo itself.
 
 import os
 
-LINE = (
-    "I hid the password somewhere even I can't find it — "
-    "that's not a bug, that's the security working as designed."
-)
+# Excuse Champ 1 (112 characters, no em dash): backed up the database
+# to the same drive that failed, now the backup and the original are
+# bonding in the void.
+LINE = "I backed up the database to the same drive that failed, now the backup and the original are bonding in the void."
 
 
 def main() -> None:
